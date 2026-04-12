@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e862cde7-bdb2-4b31-a8d2-bc252d3a6b80",
+  "id_short": 408614,
+  "published_at": "2026-04-12T19:04:42Z",
+  "repo_name": "the-hhi-monopoly-index-for-dallas-fort-worth-arlington-metro-area-tx-us-sample-408614",
+  "sample_asset_name": "beamstation_408614_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/408614/beamstation_408614_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
+  "sample_records": 57,
+  "sample_sha256": "2f1d3cf4dbcc4db819b5d28840bc670ab06e44d3b6390ddfb30dfadda273d395",
+  "sample_size_bytes": 232875,
+  "total_records": 573
+}
